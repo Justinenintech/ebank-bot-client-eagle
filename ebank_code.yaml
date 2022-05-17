@@ -1,0 +1,11 @@
+ebank:
+  MBBANK: { 'MBBANK': 'MB', 'BIDV': 'BIDV',
+            'TCB': 'TCB','VIB': 'VIB' }
+
+  VIB: { 'MBBANK': 'MILITARY BANK','VIB': 'VIB' }
+  TCB: { 'VIB': 'QUOC TE (VIB)' }
+  BIDV: { 'MBBANK': 'MB' }
+
+
+
+
